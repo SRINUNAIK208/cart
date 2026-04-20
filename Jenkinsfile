@@ -10,5 +10,5 @@ if(! env.BRANCH_NAME.equalsIgnoreCase('main')){
 
 }
 else {
-    echo 'proced with prod deployment'
+    echo "proces with PROD process"
 }
